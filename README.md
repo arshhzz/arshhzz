@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arshdeep Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/></h1>
-<p align="center">🚀 Final Year B.Tech CSE | MERN Stack Developer | 400+ DSA Problems Solved</p>
+<p align="center">🚀 Aspiring Full-Stack Developer | MERN Stack | DSA Enthusiast | B.Tech '26</p>
 
 ---
 
