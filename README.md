@@ -6,9 +6,6 @@
 ### 🧑‍💻 About Me
 - 🎓 Final year B.Tech student, passionate about building scalable and impactful web apps.
 - 🛠️ Proficient in **JavaScript**, **TypeScript**, **C++**, and **MERN Stack** (MongoDB, Express, React, Node).
-- 🧠 Solved over **400+ DSA problems** across LeetCode and other platforms.
-- 🔐 Implemented JWT Auth, protected routes, and real-world features in full-stack apps.
-- 📦 Currently working on: `CashApp` (React + JWT + MongoDB)
 
 ---
 
