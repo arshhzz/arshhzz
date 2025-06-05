@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arshdeep Singh <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" width="35px" height="35px"/></h1>
+<h1 align="center">Hi, I'm Arshdeep Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/></h1>
 <p align="center">🚀 Aspiring Full-Stack Developer | MERN Stack | DSA Enthusiast | B.Tech '25</p>
 
 ---
