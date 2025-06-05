@@ -43,23 +43,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshdeepkhalsa60&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsh_ds&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arshdeepkhalsa60&theme=radical" width="47%" />
 </p>
-
----
-
-### 📌 Pinned Projects
-
-- 🔐 [CashApp](https://github.com/arshdeepkhalsa60/cashapp) - Full-stack payment clone with JWT auth, dashboard UI, and transactions.
-- 📋 [DSA Tracker](https://github.com/arshdeepkhalsa60/dsa-practice) - Solving 400+ DSA problems with C++ (Leetcode + other platforms).
-- 📘 [React Mini Projects](https://github.com/arshdeepkhalsa60/react-snippets) - Small projects and UI elements built using React and Tailwind.
-
----
-
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshdeepkhalsa60)  
-📫 Email: arshdeepkhalsa60@gmail.com
 
 ---
