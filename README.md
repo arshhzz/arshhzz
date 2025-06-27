@@ -5,7 +5,6 @@
 
 ### 🧑‍💻 About Me
 - 🎓 Final year B.Tech student, passionate about building scalable and impactful web apps.
-- 🛠️ Proficient in **JavaScript**, **TypeScript**, **C++**, and **MERN Stack** (MongoDB, Express, React, Node).
 
 ---
 
