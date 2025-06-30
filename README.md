@@ -41,7 +41,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=arshhzz&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=arshhzz&theme=radical" />
   <img src="https://github-profile-trophy.vercel.app/?username=arshhzz&theme=radical&margin-w=15&margin-h=15"/>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=arshhzz&theme=radical" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=arshhzz&theme=radical" width="47%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshhzz&theme=radical" width="47%" />
+</p>
+
 
 </p>
 
