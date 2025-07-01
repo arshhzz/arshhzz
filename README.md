@@ -10,13 +10,6 @@
 - 🎓 Final year B.Tech student, passionate about building scalable and impactful web apps.
 
 ---
-
-### 🛠️ Tech Stack
-
-**Languages**  
-### 🛠️ Tech Stack
-
-### 🛠️ Tech Stack
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -40,11 +33,6 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="50" alt="Git" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" width="50" alt="Postman" />
 </p>
-
-
-
-
-### 📈 GitHub Stats
 
 ### 📈 GitHub Stats
 
