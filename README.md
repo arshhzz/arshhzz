@@ -38,8 +38,6 @@
 
 ### 📈 GitHub Stats
 
-### 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arshhzz&show_icons=true&hide_border=true&bg_color=000000&title_color=00ffc6&text_color=ffffff&icon_color=00ffc6" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arshhzz&hide_border=true&background=000000&ring=00ffc6&fire=ffffff&currStreakLabel=00ffc6&sideNums=ffffff&sideLabels=999999&dates=666666" width="47%" />
