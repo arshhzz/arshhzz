@@ -2,12 +2,11 @@
   <img src="https://github.com/arshhzz/arshhzz/blob/main/3.png?raw=true" />
 </p>
 <h1 align="center">Hey<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/></h1>
-<p align="center">Full-Stack Developer | B.Tech '26</p>
 
 ---
 
 ### 🧑‍💻 About Me
-- Final-year B.Tech CSE student with a focus on full-stack web development.
+- Third-year B.Tech CSE student with a focus on full-stack web development.
 - Skilled in JavaScript, TypeScript, and the MERN stack, with experience in backend systems and API development.
 - Committed to writing clean, maintainable code and building applications that are efficient and reliable.
 - Continuously learning modern tools and best practices to improve as a software developer.
