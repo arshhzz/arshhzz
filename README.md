@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/arshhzz/arshhzz/blob/main/2.jpg?raw=true" alt="Banner" />
+  <img src="https://github.com/arshhzz/arshhzz/blob/main/3.png?raw=true" />
 </p>
 
 <br>
