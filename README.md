@@ -48,8 +48,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshhzz&theme=radical" width="94%" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=arshhzz&bg_color=000000&color=00ffcc&line=00ffff&point=ffffff&area=true&area_color=005f73&hide_border=true" 
+    width="94%" 
+  />
 </p>
+
 
 
 
