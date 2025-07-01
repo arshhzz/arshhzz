@@ -36,11 +36,9 @@
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" width="50" alt="MongoDB" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" width="50" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/prisma.png" width="50" alt="Prisma" />
   <!-- Tools -->
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="50" alt="Git" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" width="50" alt="Postman" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vscode.png" width="50" alt="VS Code" />
 </p>
 
 
