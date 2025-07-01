@@ -17,23 +17,32 @@
 ### 🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" width="40" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" width="40" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" width="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" width="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" width="40" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" width="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" width="40" alt="Express" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/prisma.png" width="40" alt="Prisma" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" width="40" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" width="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c++.png" width="40" alt="C++" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" width="40" alt="Postman" />
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" width="50" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" width="50" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" width="50" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" width="50" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/java.png" width="50" alt="Java" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c++.png" width="50" alt="C++" />
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" width="50" alt="React" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tailwind_css.png" width="50" alt="TailwindCSS" />
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" width="50" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" width="50" alt="Express" />
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" width="50" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" width="50" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/prisma.png" width="50" alt="Prisma" />
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="50" alt="Git" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" width="50" alt="Postman" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vscode.png" width="50" alt="VS Code" />
 </p>
+
 
 
 
