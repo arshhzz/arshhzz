@@ -7,7 +7,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Final year B.Tech student, passionate about building scalable and impactful web apps.
+- Final-year B.Tech CSE student with a focus on full-stack web development.
+- Skilled in JavaScript, TypeScript, and the MERN stack, with experience in backend systems and API development.
+- Committed to writing clean, maintainable code and building applications that are efficient and reliable.
+- Continuously learning modern tools and best practices to improve as a software developer.
 
 ---
 ### 🛠️ Tech Stack
