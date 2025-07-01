@@ -38,13 +38,15 @@
 
 ### 📈 GitHub Stats
 
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshhzz&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=arshhzz&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arshhzz&show_icons=true&hide_border=true&bg_color=000000&title_color=00ffc6&text_color=ffffff&icon_color=00ffc6" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arshhzz&hide_border=true&background=000000&ring=00ffc6&fire=ffffff&currStreakLabel=00ffc6&sideNums=ffffff&sideLabels=999999&dates=666666" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arshhzz&theme=radical&margin-w=15&margin-h=15" width="94%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arshhzz&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" width="94%" />
 </p>
 
 <p align="center">
