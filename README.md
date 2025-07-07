@@ -44,10 +44,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arshhzz&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" width="94%" />
-</p>
-
-<p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=arshhzz&bg_color=000000&color=00ffcc&line=00ffff&point=ffffff&area=true&area_color=005f73&hide_border=true" 
     width="94%" 
